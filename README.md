@@ -8,5 +8,5 @@ The current projects are focused on python along with Scikit-Learn to build mach
 
 If you'd like to reach out with any inquiries or suggestions, please don't hesitate to do so. 
 
-* email: jimccapone@gmail.com
-* linkedin: [James Capone](https://www.linkedin.com/in/james-capone-0228b2235/)
+* Email: jimccapone@gmail.com
+* Linkedin: [James Capone](https://www.linkedin.com/in/james-capone-0228b2235/)
