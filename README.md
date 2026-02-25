@@ -10,3 +10,4 @@ If you'd like to reach out with any inquiries or suggestions, please don't hesit
 
 * Email: jimccapone@gmail.com
 * Linkedin: [James Capone](https://www.linkedin.com/in/james-capone-0228b2235/)
+* Tableau Public: https://public.tableau.com/app/profile/james.capone3856/vizzes
