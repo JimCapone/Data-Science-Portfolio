@@ -20,4 +20,4 @@ Python (Pandas, NumPy, Statmodels), Tableau Public
 
 - The link to the dynamic Tableau dashboard is found on my Tableau Public profile seen [here.](https://public.tableau.com/app/profile/james.capone3856/viz/SuperstoreProfitabilityRiskDashboard/Dashboard1)
 
-- Any feedback or comments you'd like to share, feel free to message me on LinkedIn: [James Capone](https://www.linkedin.com/in/james-capone/)
+- Any feedback or comments you'd like to share, feel free to message me on LinkedIn: [James Capone.](https://www.linkedin.com/in/james-capone/)
